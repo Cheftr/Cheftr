@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Cheftr
-- 👀 I’m interested in front end development/development in general
-- 🌱 I’m currently learning javascript/front end work
-- 💞️ I’m looking to collaborate on anything that will give me experience
-- 📫 How to reach me ...
+- 👀 I’m interested in front end development/development in general and data analysis
+- 🌱 I’m currently learning data analysis!
+
 
 <!---
 Cheftr/Cheftr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
